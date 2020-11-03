@@ -21,7 +21,7 @@ BRANCH_API_LEVEL_MAP = {'master': 'API9', 'devel/master': 'API9',
                         'API5': 'API5',
                         'API4': 'API4'}
 
-GERRIT_BRANCH_MAP = {'API9': 'tizen',
+GERRIT_BRANCH_MAP = {'API9': '',
                      'API8': 'tizen_6.0',
                      'API7': 'tizen_5.5',
                      'API6': 'tizen_5.5_tv',
